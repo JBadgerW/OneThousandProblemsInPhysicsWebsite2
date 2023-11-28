@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+	<meta charset="utf-8" />
+	<meta name="generator" content="pandoc" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+	<meta name="author" content="WILLIAM H. SNYDER, A.M. Master in Science. Worcester Academy, Worcester, Mass. AND IRVING O. PALMER, A.M. Master in Newton High School, Newton, Mass." />
+	<meta name="dcterms.date" content="1902-01-01" />
+	<title>1-Pressure in Liquids</title>
+
+
+	<link rel="stylesheet" href="PhysicsProblemsStyle.css">
+	
+	<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+</head>
+
+<body>
+
+<h1>PRESSURE IN LIQUIDS</h1>
+<ol>
+	<li>A uniform cylinder 20 cm. long and 10 cm. in diameter is filled with water. Will the average pressure per sq. cm. on the inside of the cylinder be greater when the cylinder is lying on its side, or standing on one of its ends?</li>
+	<li>Find the pressure per sq. cm. in mercury of density 13.6 at the depth of 65 cm.</li>
+	<li>Find the pressure at the depth of a mile in sea-water of density 1.026. (A mile equals 160,935 cm.)</li>
+	<li>A box 10 cm. square and 15 cm. long is placed with its longest side vertical, and has a tube extending through the top to a vertical height of 20 cm. Both the box and tube are filled with water. What is the pressure (<em>a</em>) on the top of the box? (<em>b</em>) on the bottom? (<em>c</em>) on one of the sides?</li>
+	<li>A cubical box 10 cm. on a side is filled with mercury. What is the pressure (<em>a</em>) on the top of the box? (<em>b</em>) on the bottom? (<em>c</em>) on one of the sides?</li>
+	<li>A cubical box 12 cm. on a side is filled with mercury. What is the entire pressure on the box 1</li>
+	<li>In the previous problem, the box has a tube 1 cm. square extending through a hole in the top, and rising vertically 10 cm. above the top of the box. The tube is filled with water. What is now the entire pressure on the box?</li>
+	<li>There is a cubical box 20 cm. on a side filled with water. In the top of the box is inserted a tube 4 cm. square and 15 cm. long. The tube is filled with oil of sp. gr. .75, which rests upon the water in the box. What is the pressure (<em>a</em>) on the top of the box? (<em>b</em>) on the bottom? (<em>c</em>) on one of the sides?</li>
+	<li>Find the pressure per sq. cm. at the bottom of 2 cm. of mercury covered with 3 cm. of water and this again by 1.5 cm. of oil of density .9.</li>
+	<li>The cylinder of a pneumatic press is 2 ft. in diameter. What must be the diameter of the piston to multiply the pressure 400 fold?</li>
+	<li>A cubical block 20 cm. on a side is placed with its top at a depth of 100 m. in the sea. What is the pressure on one of the. sides? Sp. gr. of sea-water is 1.03.</li>
+	<li>Find in cm. of mercury, atmospheric pressure being included, and the barometer standing at 76 cm., the pressure in water at the depth of 10 m.</li>
+	<li>At what depth in oil of density .9 is the pressure the same as in mercury at the depth of 10 cm.?</li>
+	<li>There is a closed box 20 cm. on a side. Ten cm. down on one side a tube 1 cm. square enters and extends 10 cm. vertically higher than the top of the box. The box and tulje are filled with water. Find the entire pressure on the six sides of the box.</li>
+	<li>A cubical box 10 cm. on a side is filled with mercury. In the top of the box is inserted a tube 1 cm. square, 10 cm. long and open at both ends, and filled with water. The water in the tube rests upon the mercury in the box. What is the pressure (<em>a</em>) on the bottom of the box? (<em>b</em>) on one of its sides?</li>
+	<li>If a cubical box be filled with water, prove that the entire pressure on the sides is 3 times the weight of the water.</li>
+	<li>A cylinder 3 ft. long and 2 ft. in diameter can withstand a uniform pressure on its sides of 500 lbs. to the sq. ft. If a tube 1 in. square is placed in the top, and the tube and cylinder are filled with water, (<em>a</em>) how long must the tube be in order that the pressure of the water may break the cylinder? (<em>b</em>) Where will it probably break? A cu. ft. of water weighs 62.5 lbs.</li>
+	<li>There is a tank 2 m. long, 1 m. wide, and 1 m. deep, having a pipe 4 cm. square and 2 m. long leading down from the center of the bottom. What is the pressure on the end of the pipe when the tank and pipe are filled with oil of sp. gr. .72?</li>
+	<li>What must be the size of a cubical box, so that if it is filled with a liquid of sp. gr. 5, the entire pressure on the bottom and sides shall be 960 g.?</li>
+	<li>The area of the safety valve of an engine is 1 sq. in., and the weight upon it is 10 lbs. When the valve blows off steam, what is the pressure per sq. ft. on the boiler?</li>
+	<li>How long a tube must be inserted in the top of a cubical box 10 cm. on a side, so that when the tube and the box are filled with water the pressure may be the same on one of its vertical sides as it would be if the box alone were filled with mercury?</li>
+	<li>A cubical box 5 cm. on a side is filled with water. How long a vertical tube 1 cm. square must be inserted in the top and filled with water, in order that the pressure on one of the vertical sides may be just as great as the entire pressure on the box before the tube was inserted?</li>
+	<li>A pond 100 ft. wide and 20 ft. deep is kept in place by a dam sloping at an angle of 45° to the horizon. What is the pressure on the dam?</li>
+	<li>A wedge-shaped vessel 5 cm. deep, the top of which is 6 by 4 cm. and the bottom 6 by 2 cm., is filled with water. What is the pressure on one of its larger sides?</li>
+	<li>The cistern of a barometer is placed 1 ft. under water. What will the barometer read if the atmospheric pressure is normal?</li>
+	<li>A dish 20 cm. in vertical height and shaped like the frustum of a square pyramid, 10 cm. on a side at one end and 15 cm. at the other, is filled with water and rests on its larger end. What will be the pressure on the bottom?</li>
+	<li>In the previous problem what will be the pressure on the bottom, if it rests on the smaller end? If there is any difference explain it.</li>
+	<li>A board 1 ft. square is sunk vertically in water, until the pressure upon its surface is 3125 lbs. What is the depth of its upper edge below the surface of the water?</li>
+	<li>A cubical box 5 cm. on a side is sunk in water until the top of the box is 10 cm. below the surface of the water, (<em>a</em>) What is the pressure on all the sides of the box? (<em>b</em>) If the box weighs 500 g., how much force is necessary to keep it submerged at this depth.? In what direction must this force be exerted?</li>
+	<li>A cubical box 10 cm. on a side is filled \frac{}{} with water and J with oil (sp. gr. .6). If the two liquids take positions in accordance with their sp. grs., what will be the pressure (<em>a</em>) on the bottom? (<em>b</em>) on each of the sides of the box?</li>
+	<li>There is a vessel 15 cm. tall and 10 cm. square, which is filled with equal volumes of three liquids which do not mix. The sp. grs. are 2, 4, and 6. What is the pressure (<em>a</em>) on each side of the vessel 1 (<em>b</em>) on the bottom 1</li>
+	<li>If in Problem 30 the oil and water are thoroughly mixed, what will be the pressure (<em>a</em>) on the bottom? (<em>b</em>) on each of the sides?</li>
+	<li>A cubical box 20 cm. on a side is filled with mercury and water half and half. What is the entire pressure on the box?</li>
+	<li>Suppose a tube 1 cm. square and 10 cm. long is inserted into the top of the box mentioned in the previous problem and filled with water, what will be the entire pressure?</li>
+	<li>Find in dynes per sq. cm. the pressure due to a depth of 1 cm. of mercury. Density of mercury equals 13.6.</li>
+</ol>
+
+</body>

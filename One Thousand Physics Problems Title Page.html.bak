@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+	<meta charset="utf-8" />
+	<meta name="generator" content="pandoc" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+	<meta name="author" content="WILLIAM H. SNYDER, A.M. Master in Science. Worcester Academy, Worcester, Mass. AND IRVING O. PALMER, A.M. Master in Newton High School, Newton, Mass." />
+	<meta name="dcterms.date" content="1902-01-01" />
+	<title>ONE THOUSAND PROBLEMS IN PHYSICS</title>
+
+
+	<link rel="stylesheet" href="PhysicsProblemsStyle.css">
+	
+	<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+</head>
+
+<body>
+<header id="title-block-header">
+<h1 class="title"><strong>ONE THOUSAND<br /><span style="font-size: 1.5em;">PROBLEMS IN PHYSICS</span></strong></h1>
+
+<p class="author">WILLIAM H. SNYDER, A.M.<br />
+<span class="smallcaps">Master in Science. Worcester Academy, Worcester, Mass.</span><br />
+<span>AND</span><br />
+IRVING O. PALMER, A.M.<br />
+<span class="smallcaps">Master in Newton High School, Newton, Mass.</span></p>
+
+<p class="date">1902</p>
+
+</header>
+
+<h1 class="unnumbered" id="preface">PREFACE</h1>
+
+<p>An experience of some years in teaching physics in secondary schools has convinced the authors of the necessity of supplementing laboratory and lecture work with numerical problems.</p>
+<p>The clarifying of pupils’ ideas and the clenching of principles involved in laboratory exercises are believed to be materially furthered by the solution of suitable problems. The use of problems in physics gives also an opportunity for the review and practical application of the mathematics already studied.</p>
+<p>Conversation with other teachers of physics has developed the fact that there is more or less widespread an opinion which coincides with that of the authors. The existence of this opinion and the need of a systematic collection of problems for our own classes furnish, in a measure, the <em>raison d’etre</em> of this book.</p>
+<p>Nearly all the problems have borne the test of class use and are, we believe, adapted to the needs of the secondary school pupil. The collection has been made large in order that different problems may be used with different classes. Through the courtesy of the Department of Physics of Harvard College the entrance examinations for the past ten years have been inserted.</p>
+<p>The manuscript has been read by Mr. George W. Towne of the Classical and High School, Salem, Mass.</p>
+<p>The proof sheets have been read by Prof. Albert de Forest Palmer of Brown University and Mr. A. B. Kimball of the High School, Springfield, Mass.</p>
+<p>Mr. Frederick H. Holmes of the Normal School, Hyannis, Mass., has made many valuable suggestions.</p>
+<p>To the above-mentioned gentlemen we beg to express our sincere thanks.</p>
+<p>The authors only are responsible for any errors which may appear.</p>
+<p style="text-align: right">W. H. S.<br />I. O. P.</p>
+
+<h1>Table of Contents</h1>
+<ol>
+	<li><a href="01-Pressure in Liquids.html">PRESSURE IN LIQUIDS</a></li>
+</body>
+</html>
